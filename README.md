@@ -1,4 +1,4 @@
-# Demo Spring Boot Project\
+# Demo Spring Boot Project
 This is a sample **Spring Boot 3.5.5** project using **Java 17** and the **MCP SDK**.
 ## 🚀 Features
 - Spring Boot starter with JPA
